@@ -22,7 +22,7 @@
             },
             {
               "key": "Access-Control-Allow-Origin",
-              "value": "https://social-media-anaylsis-x-langflow.vercel.app"
+              "value": "https://soul-buddy-tau.vercel.app/"
             },
             {
               "key": "Access-Control-Allow-Methods",
